@@ -1,4 +1,4 @@
-##OVERVIEW
+## OVERVIEW
 
 Your assignment, quite simply, is to implement in Scratch, at scratch.mit.edu, any project of your choice, 
 be it an interactive story, game, animation, or anything else, subject only to the following requirements:
@@ -9,6 +9,6 @@ be it an interactive story, game, animation, or anything else, subject only to t
 - Your project must use at least one custom block that you have made yourself (via Make a Block), which must take at least one input.
 - Your project should be more complex than most of those demonstrated in lecture 
 
-###Project Link:
+### Project Link:
 
 https://scratch.mit.edu/projects/867662047 
